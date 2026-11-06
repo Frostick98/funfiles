@@ -3,6 +3,13 @@
 
 #### **Don't forget**! *Everything* can be changed within the **config** itself; I’m simply pointing out what is used in **my own** configs.
 
+## Preview:
+![Preview](https://github.com/Frostick98/funfiles/blob/main/Niri/preview.png)
+
+## Paths:
+- **Niri and Noctalia** - `~/.config/niri/config.kdl | noctalia.kdl`
+- **Kitty** - `~/.config/kitty/kitty.conf`
+- **Fastfetch** - `~/.config/fastfetch/config.jsonc`
 
 ## Dependencies:
 1. **Niri:**
@@ -16,3 +23,4 @@
 2. **Kitty:**
     - *Fish*
     - ***Fastfetch***
+    - *ttf-jetbrains-mono*
