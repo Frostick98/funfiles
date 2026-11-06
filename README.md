@@ -1,5 +1,5 @@
 # Hello world!
-#### This repository is designed to store **configuration files** and other useful resources to help you get started *easily* with an operating system *(primarily Linux)*.
+#### This repository is designed to store **configuration files** and other useful resources to help you get started *easily* with an operating system *(primarily Arch Linux)*.
 
 #### **Don't forget**! *Everything* can be changed within the **config** itself; I’m simply pointing out what is used in **my own** configs.
 
