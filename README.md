@@ -23,4 +23,4 @@
 2. **Kitty:**
     - *Fish*
     - ***Fastfetch***
-    - *ttf-jetbrains-mono*
+    - *JetBrains-Mono font*
