@@ -14,7 +14,7 @@
 
 ## Dependencies:
 1. **Niri:**
-    - *Noctalia*
+    - ***Noctalia***
     - *PipeWire / PulseAudio*
     - *Kitty*
     - *Fuzzel*
