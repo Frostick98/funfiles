@@ -4,7 +4,7 @@
 #### **Don't forget**! *Everything* can be changed within the **config** itself; I’m simply pointing out what is used in **my own** configs.
 
 ## Preview:
-![Preview](https://github.com/Frostick98/funfiles/blob/main/Niri/preview.png)
+![Preview](/niri/preview.png)
 
 ## Paths:
 - **Niri and Noctalia** - `~/.config/niri/config.kdl | noctalia.kdl`
@@ -24,4 +24,4 @@
 2. **Kitty:**
     - ***Fish***
     - ***Fastfetch***
-    - *ttf-jetbrains-mono*
+    - *JetBrains-Mono font*
