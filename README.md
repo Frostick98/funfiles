@@ -10,6 +10,7 @@
 - **Niri and Noctalia** - `~/.config/niri/config.kdl | noctalia.kdl`
 - **Kitty** - `~/.config/kitty/kitty.conf`
 - **Fastfetch** - `~/.config/fastfetch/config.jsonc`
+- **Fish** - `~/.config/fish/config.fish`
 
 ## Dependencies:
 1. **Niri:**
@@ -21,6 +22,6 @@
     - *Firefox*
 
 2. **Kitty:**
-    - *Fish*
+    - ***Fish***
     - ***Fastfetch***
     - *ttf-jetbrains-mono*
